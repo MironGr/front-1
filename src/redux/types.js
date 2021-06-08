@@ -1,0 +1,1 @@
+export const CREATE_LINE = 'SVG_FORM/CREATE_LINE'
